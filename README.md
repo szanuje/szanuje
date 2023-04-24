@@ -1,3 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szanuje&count_private=true&show_icons=true)](https://github.com/szanuje)
+My name is Maks. I'm a full-stack developer, working with Node.js, React, and many more.
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
